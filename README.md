@@ -20,7 +20,7 @@ My work usually sits around:
 - OpenAI API based applications
 - Practical backend and product implementation
 
-I prefer clean, maintainable solutions over flashy complexity.
+I prefer clean, maintainable solutions over flashy complexity!
 
 ---
 
