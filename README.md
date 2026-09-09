@@ -14,6 +14,7 @@
 I build software with a focus on applied AI, LLM workflows, and production-minded engineering.
 
 My work usually sits around:
+
 - LLM integrations
 - Prompt design and evaluation
 - RAG pipelines
@@ -63,4 +64,5 @@ I prefer clean, maintainable solutions over flashy complexity!
 
 ---
 
-Keeping it practical, simple, and useful.
+Keeping it practical, simple, and useful. 
+3CCS.COM
