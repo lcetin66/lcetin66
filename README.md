@@ -59,8 +59,8 @@ I prefer clean, maintainable solutions over flashy complexity!
 
 ## Connect
 
-![GitHub](https://github.com/lcetin66)  
-![LinkedIn](https://www.linkedin.com/in/lvntctn/)
+[GitHub](https://github.com/lcetin66)  
+[LinkedIn](https://www.linkedin.com/in/lvntctn/)
 
 ---
 
