@@ -63,4 +63,4 @@ I prefer clean, maintainable solutions over flashy complexity!
 
 ---
 
-Keeping it practical, simple, and useful! 3CCS.com / ANTIVESTORE
+Keeping it practical, simple, and useful! 3CCS.com / ANTIVESTORE by CETIN
